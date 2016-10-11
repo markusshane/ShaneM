@@ -1,1 +1,4 @@
 hello this is my 4th
+new lines in fourth.txt
+new lines in fourth.txt
+new lines in fourth.txt
