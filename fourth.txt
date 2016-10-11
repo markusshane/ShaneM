@@ -4,3 +4,4 @@ new lines in fourth.txt
 new lines in fourth.txt
 new lines still!
 new lines still!
+no it's fixed
